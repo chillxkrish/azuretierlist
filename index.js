@@ -8,7 +8,7 @@ const {
 } = require('discord.js');
 
 // ================== CONFIG ==================
-const TOKEN = "MTUwMDkxMDU5OTY0MTUwMTcyOQ.GwHG2r.ZMCA1zFRgg3nQiYSRt0KSoN_n7i0IL3_-4jhPY";
+const TOKEN = "YOUR_BOT_TOKEN";
 const CLIENT_ID = "1500910599641501729";
 const GUILD_ID = "1478009366492872745";
 const TESTER_ROLE_ID = "1500849387579117651";
